@@ -1,11 +1,11 @@
 # Site settings
-author: Young Hyun (Kevin) Kim
-title: 
+author: Young Hyun Kevin Kim
+title: Why I Decided to Study Software Engineering
 header-img: img/home-bg.png
 email: kevinkim.yhk@gmail.com
-copyright_name: Young Hyun (Kevin) Kim
+copyright_name: Young Hyun Kevin Kim
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My path and decision to go down this career
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  kevin-yhk
