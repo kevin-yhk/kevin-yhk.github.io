@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Wubba Lubba Dub Dub - CLI Project"
-date:       2020-03-09 02:01:17 +0000
+date:       2020-03-08 22:01:18 -0400
 permalink:  wubba_lubba_dub_dub_-_cli_project
 ---
 
