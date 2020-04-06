@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sinatra Project - Car Management System"
-date:       2020-04-06 02:20:02 +0000
+date:       2020-04-05 22:20:03 -0400
 permalink:  sinatra_project_-_car_management_system
 ---
 
