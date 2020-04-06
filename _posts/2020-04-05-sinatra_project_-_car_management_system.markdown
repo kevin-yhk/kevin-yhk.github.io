@@ -40,7 +40,8 @@ helpers do
     def current_user
       User.find(session[:user_id])
     end
- end```
+  end
+```
 which will help me perform validations of making sure that certain processes will be executed depending on whether the user is logged in and gaining specific access to sites assuming they are the current user. 
 	
 I then created controllers for both my user and car models with their corresponding views, the views being the front end portion of this project while the controllers serve as backend, the behind the scenes aspect of this project.  
