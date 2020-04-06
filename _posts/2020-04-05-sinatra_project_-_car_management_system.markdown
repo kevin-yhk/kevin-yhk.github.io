@@ -30,6 +30,7 @@ end
 This is all the code I had to write in my model classes since we are able to inherit methods from ActiveRecord, there is no reason at all to tire ourselves by writing extra code that would do the same job from inheriting from ActiveRecord. 
 
 Next in my application controller, I added in helper methods 
+
 ```
 helpers do
     def logged_in?
@@ -40,7 +41,8 @@ helpers do
       User.find(session[:user_id])
     end
   end
-	```which will help me perform validations of making sure that certain processes will be executed depending on whether the user is logged in and gaining specific access to sites assuming they are the current user. 
+	```
+	which will help me perform validations of making sure that certain processes will be executed depending on whether the user is logged in and gaining specific access to sites assuming they are the current user. 
 	
 I then created controllers for both my user and car models with their corresponding views, the views being the front end portion of this project while the controllers serve as backend, the behind the scenes aspect of this project.  
 
